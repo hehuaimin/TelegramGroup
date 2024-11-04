@@ -33,7 +33,6 @@
 
 ### Telegram空投
 电报💰paws空投地址:[https://t.me/PAWSOG_bot/PAWS?startapp=pQJYN86h]
-\n
 电报💰dogs空投地址:[https://t.me/dogshouse_bot](https://t.me/dogshouse_bot/join?startapp=MAYhBrmaSaeH32s9jOXfgA) 空投数量根据账号活跃度和年份决定
 
 
