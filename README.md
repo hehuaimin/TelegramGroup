@@ -32,7 +32,7 @@
 ### 瀑布流Telegram群组频道导航页面：[https://telegramchannels.github.io](https://telegramchannels.github.io/)
 
 ### Telegram空投
-
+电报💰paws空投地址:[https://t.me/PAWSOG_bot/PAWS?startapp=pQJYN86h]
 电报💰dogs空投地址:[https://t.me/dogshouse_bot](https://t.me/dogshouse_bot/join?startapp=MAYhBrmaSaeH32s9jOXfgA) 空投数量根据账号活跃度和年份决定
 
 
