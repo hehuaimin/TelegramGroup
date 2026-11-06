@@ -100,9 +100,9 @@
 ### 交易所提币
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| 币安    |   [https://accounts.binance.com](https://accounts.binance.com/zh-CN/register?ref=896983517)   |       币安交易所(持有bnb减免40%手续费)|
-| 欧易OKX    |   [https://www.okx.com](https://okx.com/join/78810492)   |      欧易交易所(减免20%手续费)|
-| ByBit    |   [https://www.bybit.com/](https://www.bybit.com/invite?ref=4VLKDMW)   |      ByBit交易所(减免30%手续费)|
+| 币安    |   [https://accounts.binance.com](https://www.bsmkweb.net/register?ref=16769521)   |       币安交易所(持有bnb减免40%手续费)|
+| 欧易OKX    |   [https://www.okx.com](https://www.topfgcnzqwl.net/join/NWAW6W73)   |      欧易交易所(减免20%手续费)|
+| ByBit    |   [https://www.bybit.com/](https://www.bybitglobal.com/invite?ref=PLQX9VE&medium=referral&utm_campaign=evergreen&share_to=link)   |      ByBit交易所(减免30%手续费)|
 
 ### 常用机器人
 
